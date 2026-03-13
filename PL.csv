@@ -1,0 +1,193 @@
+Region,Financial_Year,Account_Group,Account,Actual,Budget
+Asia Pacific,2019/20,Revenue,Consultancy Income,750,1984.09
+Asia Pacific,2019/20,Revenue,Export Sales ,653936.76,638489.2
+Asia Pacific,2019/20,Revenue,Domestic Sales,103520.29,96817.58
+Asia Pacific,2019/20,Revenue,Other Revenue,20543.1,29759.87
+Asia Pacific,2019/20,Cost of Goods Sold,Delivery Costs,3470.47,2849.83
+Asia Pacific,2019/20,Cost of Goods Sold,COGS,403471.23,442000
+Asia Pacific,2019/20,Expenses,Accounting,3800,4000
+Asia Pacific,2019/20,Expenses,Depreciation,15125,14676
+Asia Pacific,2019/20,Expenses,Staff,15631.8,15103.23
+Asia Pacific,2019/20,Expenses,Merchant Fees,20267.81,21132.1
+Asia Pacific,2019/20,Expenses,Motor Vehicle,5645.16,5970.11
+Asia Pacific,2019/20,Expenses,Postage,223.77,275.61
+Asia Pacific,2019/20,Expenses,Stationery,190.96,275.16
+Asia Pacific,2019/20,Expenses,Training,849.69,4250.62
+Asia Pacific,2019/20,Expenses,Telephony,4427.34,6602.32
+Asia Pacific,2019/20,Expenses,Travel,24105,32580
+Asia Pacific,2018/19,Revenue,Consultancy Income,825,1686.48
+Asia Pacific,2018/19,Revenue,Export Sales ,686633.6,568255.39
+Asia Pacific,2018/19,Revenue,Domestic Sales,87992.25,86167.65
+Asia Pacific,2018/19,Revenue,Other Revenue,17461.64,25295.89
+Asia Pacific,2018/19,Cost of Goods Sold,Delivery Costs,3296.95,3134.81
+Asia Pacific,2018/19,Cost of Goods Sold,COGS,383297.67,419900
+Asia Pacific,2018/19,Expenses,Accounting,3230,4400
+Asia Pacific,2018/19,Expenses,Depreciation,14368.75,13061.64
+Asia Pacific,2018/19,Expenses,Staff,13287.03,15858.39
+Asia Pacific,2018/19,Expenses,Merchant Fees,17227.64,20075.5
+Asia Pacific,2018/19,Expenses,Motor Vehicle,5024.19,6268.62
+Asia Pacific,2018/19,Expenses,Postage,246.15,289.39
+Asia Pacific,2018/19,Expenses,Stationery,162.32,233.89
+Asia Pacific,2018/19,Expenses,Training,934.66,4675.68
+Asia Pacific,2018/19,Expenses,Telephony,4205.97,5611.97
+Asia Pacific,2018/19,Expenses,Travel,22899.75,27693
+Asia Pacific,2017/18,Revenue,Consultancy Income,701.25,1602.16
+Asia Pacific,2017/18,Revenue,Export Sales ,720965.28,596668.16
+Asia Pacific,2017/18,Revenue,Domestic Sales,83592.64,81859.27
+Asia Pacific,2017/18,Revenue,Other Revenue,18334.72,22513.34
+Asia Pacific,2017/18,Cost of Goods Sold,Delivery Costs,2802.41,3448.29
+Asia Pacific,2017/18,Cost of Goods Sold,COGS,421627.44,440895
+Asia Pacific,2017/18,Expenses,Accounting,3391.5,4840
+Asia Pacific,2017/18,Expenses,Depreciation,13650.31,11102.39
+Asia Pacific,2017/18,Expenses,Staff,11825.46,17444.23
+Asia Pacific,2017/18,Expenses,Merchant Fees,18089.02,19071.73
+Asia Pacific,2017/18,Expenses,Motor Vehicle,5275.4,6582.05
+Asia Pacific,2017/18,Expenses,Postage,270.77,245.98
+Asia Pacific,2017/18,Expenses,Stationery,154.2,208.16
+Asia Pacific,2017/18,Expenses,Training,831.85,4441.9
+Asia Pacific,2017/18,Expenses,Telephony,3575.07,6173.17
+Asia Pacific,2017/18,Expenses,Travel,21754.76,30462.3
+Europe,2019/20,Revenue,Consultancy Income,667.5,1765.84
+Europe,2019/20,Revenue,Export Sales ,582003.72,702338.12
+Europe,2019/20,Revenue,Domestic Sales,98344.28,82294.94
+Europe,2019/20,Revenue,Other Revenue,17461.64,32735.86
+Europe,2019/20,Cost of Goods Sold,Delivery Costs,3817.52,2536.35
+Europe,2019/20,Cost of Goods Sold,COGS,383297.67,393380
+Europe,2019/20,Expenses,Accounting,3990,4200
+Europe,2019/20,Expenses,Depreciation,14368.75,13061.64
+Europe,2019/20,Expenses,Staff,13912.3,12837.75
+Europe,2019/20,Expenses,Merchant Fees,17227.64,20075.5
+Europe,2019/20,Expenses,Motor Vehicle,5362.9,5074.59
+Europe,2019/20,Expenses,Postage,246.15,234.27
+Europe,2019/20,Expenses,Stationery,181.41,288.92
+Europe,2019/20,Expenses,Training,756.22,4038.09
+Europe,2019/20,Expenses,Telephony,4870.07,5611.97
+Europe,2019/20,Expenses,Travel,20489.25,30951
+Europe,2018/19,Revenue,Consultancy Income,783.75,1602.16
+Europe,2018/19,Revenue,Export Sales ,652301.92,625080.93
+Europe,2018/19,Revenue,Domestic Sales,92391.86,81859.27
+Europe,2018/19,Revenue,Other Revenue,16588.56,27825.48
+Europe,2018/19,Cost of Goods Sold,Delivery Costs,2802.41,3291.55
+Europe,2018/19,Cost of Goods Sold,COGS,325803.02,398905
+Europe,2018/19,Expenses,Accounting,3553,4180
+Europe,2018/19,Expenses,Depreciation,12788.19,14367.8
+Europe,2018/19,Expenses,Staff,13951.38,13479.63
+Europe,2018/19,Expenses,Merchant Fees,16366.26,19071.73
+Europe,2018/19,Expenses,Motor Vehicle,4270.56,6582.05
+Europe,2018/19,Expenses,Postage,209.23,318.33
+Europe,2018/19,Expenses,Stationery,144.46,198.81
+Europe,2018/19,Expenses,Training,981.39,4909.46
+Europe,2018/19,Expenses,Telephony,3995.67,5331.37
+Europe,2018/19,Expenses,Travel,24044.74,23539.05
+Europe,2017/18,Revenue,Consultancy Income,771.38,1682.27
+Europe,2017/18,Revenue,Export Sales ,757013.54,566834.75
+Europe,2017/18,Revenue,Domestic Sales,74397.45,90045.2
+Europe,2017/18,Revenue,Other Revenue,17417.98,19136.34
+Europe,2017/18,Cost of Goods Sold,Delivery Costs,2382.05,3793.12
+Europe,2017/18,Cost of Goods Sold,COGS,375248.42,462939.75
+Europe,2017/18,Expenses,Accounting,3018.44,4307.6
+Europe,2017/18,Expenses,Depreciation,12967.79,9437.03
+Europe,2017/18,Expenses,Staff,10051.64,14827.6
+Europe,2017/18,Expenses,Merchant Fees,15375.67,20978.9
+Europe,2017/18,Expenses,Motor Vehicle,4484.09,5858.02
+Europe,2017/18,Expenses,Postage,297.85,270.58
+Europe,2017/18,Expenses,Stationery,146.49,218.57
+Europe,2017/18,Expenses,Training,873.44,4664
+Europe,2017/18,Expenses,Telephony,3396.32,6790.49
+Europe,2017/18,Expenses,Travel,18491.55,28939.19
+Americas,2019/20,Revenue,Consultancy Income,700.88,1571.6
+Americas,2019/20,Revenue,Export Sales ,517983.31,772571.93
+Americas,2019/20,Revenue,Domestic Sales,93427.07,73242.5
+Americas,2019/20,Revenue,Other Revenue,14842.39,29134.92
+Americas,2019/20,Cost of Goods Sold,Delivery Costs,3244.89,2155.9
+Americas,2019/20,Cost of Goods Sold,COGS,364132.79,334373
+Americas,2019/20,Expenses,Accounting,3391.5,3990
+Americas,2019/20,Expenses,Depreciation,15087.19,12408.56
+Americas,2019/20,Expenses,Staff,14607.92,14121.53
+Americas,2019/20,Expenses,Merchant Fees,18950.4,17064.18
+Americas,2019/20,Expenses,Motor Vehicle,5631.05,4516.39
+Americas,2019/20,Expenses,Postage,258.46,222.56
+Americas,2019/20,Expenses,Stationery,190.48,274.47
+Americas,2019/20,Expenses,Training,673.04,4441.9
+Americas,2019/20,Expenses,Telephony,5113.57,6173.17
+Americas,2019/20,Expenses,Travel,22538.18,34046.1
+Americas,2018/19,Revenue,Consultancy Income,666.19,1682.27
+Americas,2018/19,Revenue,Export Sales ,580548.71,687589.02
+Americas,2018/19,Revenue,Domestic Sales,87772.27,85952.23
+Americas,2018/19,Revenue,Other Revenue,15759.13,29216.75
+Americas,2018/19,Cost of Goods Sold,Delivery Costs,2382.05,3456.13
+Americas,2018/19,Cost of Goods Sold,COGS,276932.57,378959.75
+Americas,2018/19,Expenses,Accounting,3020.05,3553
+Americas,2018/19,Expenses,Depreciation,11381.49,12212.63
+Americas,2018/19,Expenses,Staff,13253.81,11996.87
+Americas,2018/19,Expenses,Merchant Fees,17184.57,18118.14
+Americas,2018/19,Expenses,Motor Vehicle,4484.09,6252.95
+Americas,2018/19,Expenses,Postage,177.85,302.41
+Americas,2018/19,Expenses,Stationery,122.79,208.75
+Americas,2018/19,Expenses,Training,873.44,5154.93
+Americas,2018/19,Expenses,Telephony,3795.89,5597.94
+Americas,2018/19,Expenses,Travel,20438.03,22362.1
+Americas,2017/18,Revenue,Consultancy Income,686.53,1850.5
+Americas,2017/18,Revenue,Export Sales ,794864.22,504482.93
+Americas,2017/18,Revenue,Domestic Sales,81837.2,76538.42
+Americas,2017/18,Revenue,Other Revenue,19159.78,20093.16
+Americas,2017/18,Cost of Goods Sold,Delivery Costs,2120.02,3982.78
+Americas,2017/18,Cost of Goods Sold,COGS,394010.84,412016.38
+Americas,2017/18,Expenses,Accounting,2565.67,3661.46
+Americas,2017/18,Expenses,Depreciation,11541.33,10380.73
+Americas,2017/18,Expenses,Staff,10554.22,15568.98
+Americas,2017/18,Expenses,Merchant Fees,16144.45,23076.79
+Americas,2017/18,Expenses,Motor Vehicle,3811.48,4979.32
+Americas,2017/18,Expenses,Postage,253.17,284.11
+Americas,2017/18,Expenses,Stationery,124.52,240.43
+Americas,2017/18,Expenses,Training,917.11,5130.4
+Americas,2017/18,Expenses,Telephony,3226.5,7130.01
+Americas,2017/18,Expenses,Travel,20340.71,30386.15
+MEA,2019/20,Revenue,Consultancy Income,665.84,1398.72
+MEA,2019/20,Revenue,Export Sales ,440285.81,849829.12
+MEA,2019/20,Revenue,Domestic Sales,102769.78,69580.38
+MEA,2019/20,Revenue,Other Revenue,14100.27,32048.41
+MEA,2019/20,Cost of Goods Sold,Delivery Costs,2887.95,2048.11
+MEA,2019/20,Cost of Goods Sold,COGS,382339.43,367810.3
+MEA,2019/20,Expenses,Accounting,3561.08,4389
+MEA,2019/20,Expenses,Depreciation,12824.11,11788.13
+MEA,2019/20,Expenses,Staff,15338.32,15533.68
+MEA,2019/20,Expenses,Merchant Fees,18002.88,17917.39
+MEA,2019/20,Expenses,Motor Vehicle,6194.16,4968.03
+MEA,2019/20,Expenses,Postage,284.31,189.18
+MEA,2019/20,Expenses,Stationery,200,301.92
+MEA,2019/20,Expenses,Training,740.34,4664
+MEA,2019/20,Expenses,Telephony,4857.89,5494.12
+MEA,2019/20,Expenses,Travel,23665.09,35748.41
+MEA,2018/19,Revenue,Consultancy Income,732.81,1598.16
+MEA,2018/19,Revenue,Export Sales ,516688.35,611954.23
+MEA,2018/19,Revenue,Domestic Sales,78117.32,81654.62
+MEA,2018/19,Revenue,Other Revenue,14971.17,30677.59
+MEA,2018/19,Cost of Goods Sold,Delivery Costs,2024.74,2937.71
+MEA,2018/19,Cost of Goods Sold,COGS,263085.94,322115.79
+MEA,2018/19,Expenses,Accounting,2869.05,3730.65
+MEA,2018/19,Expenses,Depreciation,10812.42,11602
+MEA,2018/19,Expenses,Staff,13916.5,10677.21
+MEA,2018/19,Expenses,Merchant Fees,18903.03,16125.14
+MEA,2018/19,Expenses,Motor Vehicle,4708.29,6565.6
+MEA,2018/19,Expenses,Postage,158.29,269.14
+MEA,2018/19,Expenses,Stationery,128.93,198.31
+MEA,2018/19,Expenses,Training,742.42,5412.68
+MEA,2018/19,Expenses,Telephony,4175.48,4982.17
+MEA,2018/19,Expenses,Travel,18189.85,21244
+MEA,2017/18,Revenue,Consultancy Income,755.18,1646.95
+MEA,2017/18,Revenue,Export Sales ,707429.16,428810.49
+MEA,2017/18,Revenue,Domestic Sales,77745.34,68119.19
+MEA,2017/18,Revenue,Other Revenue,17052.2,17882.91
+MEA,2017/18,Cost of Goods Sold,Delivery Costs,2014.02,3544.67
+MEA,2017/18,Cost of Goods Sold,COGS,413711.38,453218.02
+MEA,2017/18,Expenses,Accounting,2180.82,3478.39
+MEA,2017/18,Expenses,Depreciation,12118.4,8823.62
+MEA,2017/18,Expenses,Staff,11609.64,13856.39
+MEA,2017/18,Expenses,Merchant Fees,17758.9,24230.63
+MEA,2017/18,Expenses,Motor Vehicle,3392.22,4232.42
+MEA,2017/18,Expenses,Postage,240.51,252.86
+MEA,2017/18,Expenses,Stationery,110.82,204.37
+MEA,2017/18,Expenses,Training,779.54,4873.88
+MEA,2017/18,Expenses,Telephony,3549.15,6773.51
+MEA,2017/18,Expenses,Travel,18103.23,33424.77
